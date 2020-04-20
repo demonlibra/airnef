@@ -1,5 +1,11 @@
 # Bash сценарии для автоматической загрузки фото/видео из фотоаппарата программой Airnef
 
+## Файлы
+| Файл | Описание |
+| --- | --- |
+| airnef_canon_g9x | CANON PowerShot G9X Mark II |
+| airnef_nikon_p340 | Nickon Coolpix P340 |
+
 ## Параметры
 Проверьте параметры в начале файла.
 
@@ -12,6 +18,12 @@
 Описание проблемы в форуме: [Airnef](http://testcams.com/blog/forums/topic/canon-eos-m5-connection-refused/)
 
 # Bash scripts for automatic download photo/video from camera by programm Airnef
+
+## Files
+| File | Description |
+| --- | --- |
+| airnef_canon_g9x | CANON PowerShot G9X Mark II |
+| airnef_nikon_p340 | Nickon Coolpix P340 |
 
 ## Parameters
 Check parameters at top of the script.
